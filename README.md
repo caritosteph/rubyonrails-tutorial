@@ -8,4 +8,6 @@ RUBY ON RAILS TUTORIAL (RAILS 5) Learn Web Development with Rails solutions.
     4.3.1 Arrays and ranges
     4.3.2 Blocks
     4.3.3 Hashes and symbols
+  4.4 Ruby classes
+    4.4.3 Modifying built-in classes
 ```

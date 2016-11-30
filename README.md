@@ -1,5 +1,5 @@
 # Ruby on Rails Tutorial
-Examples from the book RUBY ON RAILS TUTORIAL (RAILS 5) Learn Web Development with Rails.
+RUBY ON RAILS TUTORIAL (RAILS 5) Learn Web Development with Rails solutions.
 
 ## Chapters
 ### Chapter 4 Rails-flavored Ruby

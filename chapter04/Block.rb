@@ -1,3 +1,6 @@
+#Using the range 0..16, print out the first 17 powers of 2.
+(0..16).map {|x| 2**x}
+
 # Define a method called yeller that takes in an array of characters
 # and returns a string with an ALLCAPS version of the input. Verify
 # that yeller([’o’, ’l’, ’d’]) returns "OLD". Hint: Combine map, upcase,
